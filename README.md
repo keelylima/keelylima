@@ -15,7 +15,8 @@ Currently working with Cloud/AWS focused on architecture and some demands as a d
 ## Work
 
 * 🖥 Front-end Developer - [Accenture](https://www.accenture.com/) - 2019 - 2020
-* ☁ AWS Cloud - [GFT](https://www.gft.com/br/pt/index/) - 2021
+* ☁ AWS Cloud - [GFT](https://www.gft.com/br/pt/index/) - 2021 - 2022
+* ☁ Cloud Security - [GUPY](https://www.gupy.io/) - 2022
 
 ## Find me
 
