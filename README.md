@@ -3,14 +3,6 @@
 Hi! My name is Kelly. I started my career as a Front-end Developer. Working with Angular 5+. 
 Currently working with Cloud/AWS focused on architecture and some demands as a developer.
 
-<p>
- <img width="400px" src="https://github-readme-stats.vercel.app/api?username=keelylima&theme=default">
-</p>
-
- <p>
-  <img width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keelylima&layout=compact&theme=default">
-</p>
-
 
 ## Work
 
